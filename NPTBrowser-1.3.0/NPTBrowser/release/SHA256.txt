@@ -1,0 +1,1 @@
+cd53c835a842dcb487e970170b4bb903ff40182885c25fbf609626bfacbfaf94  npt-browser-1.3.0-all.jar

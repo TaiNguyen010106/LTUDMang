@@ -1,0 +1,7 @@
+/target/
+/runtime/
+/.idea/
+/*.iml
+hs_err_pid*.log
+# Personal quick-link shortcuts created at runtime
+config/quick-links.properties
